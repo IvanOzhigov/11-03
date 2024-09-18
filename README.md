@@ -40,6 +40,7 @@
 
 ## Ответ
 ![alt text](https://github.com/IvanOzhigov/11-03/blob/main/1-1.png)
+![alt text](https://github.com/IvanOzhigov/11-03/blob/main/1-2.png)
 ---
 
 ### Задание 2. Kibana
@@ -59,10 +60,10 @@
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
 ## Ответ
-![alt text](https://github.com/IvanOzhigov/11-03/blob/main/3-1.png)
+![alt text](https://github.com/IvanOzhigov/11-03/blob/main/3-2.png)
 
 Почему-то не подключается Кибана к Эластику, уже не знаю куда копать, весь мозг сломал, может подскажите?
-![alt text](https://github.com/IvanOzhigov/11-03/blob/main/3-2.png)
+![alt text](https://github.com/IvanOzhigov/11-03/blob/main/4-1.png)
 
 ---
 
