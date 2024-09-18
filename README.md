@@ -61,10 +61,6 @@
 
 ## Ответ
 ![alt text](https://github.com/IvanOzhigov/11-03/blob/main/3-2.png)
-
-Почему-то не подключается Кибана к Эластику, уже не знаю куда копать, весь мозг сломал, может подскажите?
-![alt text](https://github.com/IvanOzhigov/11-03/blob/main/4-1.png)
-
 ---
 
 ### Задание 4. Filebeat. 
@@ -74,7 +70,7 @@
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
 ## Ответ
-
+![alt text](https://github.com/IvanOzhigov/11-03/blob/main/4-1.png)
 ---
 
 ## Дополнительные задания (со звёздочкой*)
